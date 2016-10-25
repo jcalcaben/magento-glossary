@@ -1,0 +1,4388 @@
+<glossary>
+  <term>
+    <uuid>b0d9a89a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>above the fold</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>In a browser window, the content that is immediately visible after a web page loads and before a user scrolls down the page.</short-definition>
+    <long-definition>In a browser window, the content that is immediately visible after a web page loads and before a user scrolls down the page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9ac32-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>adapter</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A class that enables two otherwise incompatible systems to work together without modifying the systems' source code. Examples include database adapters, cache adapters, filesystem adapters, postprocessor libraries adapters and other types of computing adapters.</short-definition>
+    <long-definition>Examples include database adapters, cache adapters, filesystem adapters, postprocessor libraries adapters and other types of computing adapters.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9b236-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>adminhtml</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>An area name installed in default Magento 2 software that helps reduce the memory demands of configuration objects accessed from the storefront. </short-definition>
+    <long-definition>An area name installed in default Magento 2 software that helps reduce the memory demands of configuration objects accessed from the storefront. </long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9b3f8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>alt text</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>In a web browser when a user is unable to view an image, alt text (embedded in the HTML code) appears in place of the image. Also, blind or visually impaired users are able to interpret web mages through alt text as they navigate with a screen reader.</short-definition>
+    <long-definition>In a web browser when a user is unable to view an image, alt text (embedded in the HTML code) appears in place of the image. Also, blind or visually impaired users are able to interpret web mages through alt text as they navigate with a screen reader.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9b5ce-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>anchor text</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The text, or label, in a hyperlink that is visible and clickable. Anchor text is important in search engine optimization.
+
+See also: search engine optimization</short-definition>
+    <long-definition>The text, or label, in a hyperlink that is visible and clickable. Anchor text is important in search engine optimization.
+
+See also: search engine optimization</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9b7a4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>API</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym>application programming</synonym>
+      <synonym>interface</synonym>
+      <synonym>integration API</synonym>
+      <synonym>web API</synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A software interface that lets third-party applications read and write to a system using programming language constructs or statements.</short-definition>
+    <long-definition>An abbreviation for "application program interface". A software interface that lets third-party applications read and write to a system using programming language constructs or statements.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9b966-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>area</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Area is an abstract term for a Magento application scope. Areas are logical components that organize code for optimized request processing. Areas streamline web service calls by loading only the required dependent code. Each  area can contain completely different code to process URLs and requests.</short-definition>
+    <long-definition>Area is an abstract term for a Magento application scope. Areas are logical components that organize code for optimized request processing. Areas streamline web service calls by loading only the required dependent code. Each  area can contain completely different code to process URLs and requests.</long-definition>
+    <usage>DevDocs: Modules and Areas, http://devdocs.magento.com/guides/v2.0/architecture/modules/mod_and_areas.html</usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9bb28-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>aspect ratio</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The proportional relationship between the width and height of an image.</short-definition>
+    <long-definition>The proportional relationship between the width and height of an image.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9bfec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>attribute</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A characteristic or property of a product that includes anything describing a product. Examples: color, size, weight, price.
+
+See also: custom attributes, extension attributes</short-definition>
+    <long-definition>A characteristic or property of a product that includes anything describing a product. Examples: color, size, weight, price.
+
+See also: custom attributes, extension attributes</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9c1ea-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>B2B</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "business to business." A type of business transaction between two business entities that are not the final consumers of the goods or services. B2B can be used on first reference.</short-definition>
+    <long-definition>An abbreviation for "business to business." A type of business transaction between two business entities that are not the final consumers of the goods or services. B2B can be used on first reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9c3f2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>B2C</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "business to consumer." Business transactions between a business entity and a consumer. B2C can be used on first reference.</short-definition>
+    <long-definition>An abbreviation for "business to consumer." Business transactions between a business entity and a consumer. B2C can be used on first reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9c5c8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>banner</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Promotional graphics that appear either horizontally on the top of a web page or vertically on the left or right margins. Website advertisements often appear as banners.</short-definition>
+    <long-definition>Promotional graphics that appear either horizontally on the top of a web page or vertically on the left or right margins. Website advertisements often appear as banners.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9c7ee-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>base currency</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The primary currency that is used per store view for all online payments.</short-definition>
+    <long-definition>The primary currency that is used per store view for all online payments.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9c9d8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>base currency rate</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9cf64-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>batch processing</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A single function that can apply changes to multiple items, without manual repetition.</short-definition>
+    <long-definition>A single function that can apply changes to multiple items, without manual repetition.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9d19e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>block</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A unit of page output that renders some distinctive content &#8211; a piece of information, a user interface element &#8211; anything visually tangible for the end-user. Blocks are implemented and provided by modules. Blocks use templates to generate HTML. Examples of blocks include a category list, a mini cart, product tags, and product listing. 
+
+Usage: Use as a generic noun. 
+
+See: CMS block, container</short-definition>
+    <long-definition>A unit of page output that renders some distinctive content &#8211; a piece of information, a user interface element &#8211; anything visually tangible for the end-user. Blocks are implemented and provided by modules. Blocks use templates to generate HTML. Examples of blocks include a category list, a mini cart, product tags, and product listing. 
+
+Usage: Use as a generic noun. 
+
+See: CMS block, container</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9d392-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>bounce rate</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The percentage of website visitors that land on a page and then leave without navigating further into the site.</short-definition>
+    <long-definition>The percentage of website visitors that land on a page and then leave without navigating further into the site.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9d55e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>brand</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A unique identity that defines a particular product or group of products.</short-definition>
+    <long-definition>A unique identity that defines a particular product or group of products.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9d72a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>breadcrumb</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A navigation aid that helps users to keep track of their location within your store. Breadcrumbs generally appearin a horizontal array at the top of a page, including links that take users to higher levels of site categorization.</short-definition>
+    <long-definition>A navigation aid that helps users to keep track of their location within your store. Breadcrumbs generally appearin a horizontal array at the top of a page, including links that take users to higher levels of site categorization.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9d91e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>brick and mortar</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A retail business with a permanent physical location, as opposed to businesses that function virtually or solely through the internet.</short-definition>
+    <long-definition>A retail business with a permanent physical location, as opposed to businesses that function virtually or solely through the internet.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9dafe-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>broken link</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A hyperlink with an invalid address that fails to send the user to its intended web page. A user who clicks a broken link generally lands on an error (404) page.</short-definition>
+    <long-definition>A hyperlink with an invalid address that fails to send the user to its intended web page. A user who clicks a broken link generally lands on an error (404) page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9e102-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>bundle product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A "build your own" customizable product with a variety of options and configurations. Each item in the bundle is either a separate simple or virtual product.</short-definition>
+    <long-definition>A "build your own" customizable product with a variety of options and configurations. Each item in the bundle is either a separate simple or virtual product.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9e328-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cache </title>
+    <word-types>
+      <type>n</type>
+      <type>v</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Pages (or parts of pages) that are stored to improve the page load time of subsequent requests.</short-definition>
+    <long-definition>Pages (or parts of pages) that are stored to improve the page load time of subsequent requests.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9e508-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>callout</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9e6de-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>canonical URL</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A meta tag that redirects search engines to a single preferred URL, when seemingly duplicate content is encountered on the server. Aids in search engine optimization.
+
+See: search engine optimization</short-definition>
+    <long-definition>A meta tag that redirects search engines to a single preferred URL, when seemingly duplicate content is encountered on the server. Aids in search engine optimization.
+
+See: search engine optimization</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9f700-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>capture</title>
+    <word-types>
+      <type>v</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The process of converting an authorized order amount into a billable transaction. Transactions cannot be captured until authorized, and authorizations cannot be captured until the goods or services have been shipped.</short-definition>
+    <long-definition>The process of converting an authorized order amount into a billable transaction. Transactions cannot be captured until authorized, and authorizations cannot be captured until the goods or services have been shipped.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9f994-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cardholder</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A person who is authorized by a financial institution to make purchases on a credit card account.</short-definition>
+    <long-definition>A person who is authorized by a financial institution to make purchases on a credit card account.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0d9fbb0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>category</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A group of products that have something in common. The main menu of the store is organized into categories and subcategories of products. </short-definition>
+    <long-definition>A group of products that have something in common. The main menu of the store is organized into categories and subcategories of products. </long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da0466-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>checkout process</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process of gathering the payment and shipping information that is necessary to complete the purchase of items in the shopping cart. After the customer reviews the information and submits the order, an email confirmation is sent to the customer.</short-definition>
+    <long-definition>The process of gathering the payment and shipping information that is necessary to complete the purchase of items in the shopping cart. After the customer reviews the information and submits the order, an email confirmation is sent to the customer.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da0682-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cloud services</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A resource provided over the internet that hosts or shares computer processing capability and data to computers and other devices on demand. Cloud services include software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS). 
+
+&lt;Detailed definition&gt; Benefits include:
+
+&#8226; Infrastructure costs avoided
+&#8226; Savings in infrastructure passed on to core business
+&#8226; Applications can be implemented quicker
+&#8226; Less maintenance
+
+See also: software as a service, platform as a service, infrastructure as a service</short-definition>
+    <long-definition>A resource provided over the internet that hosts or shares computer processing capability and data to computers and other devices on demand. Cloud services include software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS). 
+
+&lt;Detailed definition&gt; Benefits include:
+
+&#8226; Infrastructure costs avoided
+&#8226; Savings in infrastructure passed on to core business
+&#8226; Applications can be implemented quicker
+&#8226; Less maintenance
+
+See also: software as a service, platform as a service, infrastructure as a service</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da0c68-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>CMS</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "content management system". A software system that is used to create, edit, and maintain content on a website. Use CMS on second reference.</short-definition>
+    <long-definition>An abbreviation for "content management system". A software system that is used to create, edit, and maintain content on a website. Use CMS on second reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da0e8e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>CMS block </title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da1078-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>code migration</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>In general, processes related to translating code from one application to another. The Magento code migration tool assists you with porting Magento 1 customizations to Magento 2.</short-definition>
+    <long-definition>In general, processes related to translating code from one application to another. The Magento code migration tool assists you with porting Magento 1 customizations to Magento 2.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da126c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>complex data</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Data that is associated with multiple product options.</short-definition>
+    <long-definition>Data that is associated with multiple product options.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da1460-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>complex product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A product that requires the customer to choose from a selection of options.</short-definition>
+    <long-definition>A product that requires the customer to choose from a selection of options.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da1adc-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Composer package</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] https://getcomposer.org/doc/05-repositories.md#package
+
+See: package</short-definition>
+    <long-definition>[sj] https://getcomposer.org/doc/05-repositories.md#package
+
+See: package</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da1cda-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>composite pattern</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Code that allows a group of objects to be treated as one object. 
+
+Note: Client code must never request composite patterns in constructors.</short-definition>
+    <long-definition>Code that allows a group of objects to be treated as one object. 
+
+Note: Client code must never request composite patterns in constructors.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da1eb0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>composite product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Any product type that offers customers a choice of options.</short-definition>
+    <long-definition>Any product type that offers customers a choice of options.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da2086-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>configurable product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>This product enables your customers to select the variant that they want by choosing options. Example: T-shirts that can be bought with two colors and three sizes. Six variants need to be created as individual products (each with its own SKU). Then, all variants are added to a configurable product where customers can choose the size and color, and then add it to their cart.</short-definition>
+    <long-definition>This product enables your customers to select the variant that they want by choosing options. Example: T-shirts that can be bought with two colors and three sizes. Six variants need to be created as individual products (each with its own SKU). Then, all variants are added to a configurable product where customers can choose the size and color, and then add it to their cart.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da2252-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>container</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Areas in a page's layout where content can be populated. A container&#8217;s attributes include visibility, horizontal and vertical alignment, autoresizing, editable setting, position and size.</short-definition>
+    <long-definition>Areas in a page's layout where content can be populated. A container&#8217;s attributes include visibility, horizontal and vertical alignment, autoresizing, editable setting, position and size.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da240a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>content delivery network</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A large distributed network of servers that specializes in the high performance delivery of multimedia content.&#160;</short-definition>
+    <long-definition>A large distributed network of servers that specializes in the high performance delivery of multimedia content.&#160;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da2b26-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>content marketing</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The art of promoting products or services by providing valuable information at no charge.</short-definition>
+    <long-definition>The art of promoting products or services by providing valuable information at no charge.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da2d56-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>controller</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>One of three parts of the model-view-controller software architecture pattern. 
+
+How it works: In an application, the controller accepts user input from a &#8220;view&#8221; (interface) and issues commands. These commands update or change the &#8220;model&#8221; (application&#8217;s data, logic and rules) or the &#8220;view&#8221;.</short-definition>
+    <long-definition>One of three parts of the model-view-controller software architecture pattern. 
+
+How it works: In an application, the controller accepts user input from a &#8220;view&#8221; (interface) and issues commands. These commands update or change the &#8220;model&#8221; (application&#8217;s data, logic and rules) or the &#8220;view&#8221;.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da2f4a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>conversion</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A marketing term that indicates when a goal is reached. If the goal is to sell a product, conversion is reached when a visitor becomes a buyer.</short-definition>
+    <long-definition>A marketing term that indicates when a goal is reached. If the goal is to sell a product, conversion is reached when a visitor becomes a buyer.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da3120-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>conversion rate</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The percentage of visitors who are converted into buyers.</short-definition>
+    <long-definition>The percentage of visitors who are converted into buyers.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da32e2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>credit memo</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>After a customer places and pays for an order and an invoice has been issued, the merchant can create a credit memo to refund all or part of the amount paid for any returned or undelivered items. The memo restores funds to the customer's account so that the customer can make future purchases.</short-definition>
+    <long-definition>After a customer places and pays for an order and an invoice has been issued, the merchant can create a credit memo to refund all or part of the amount paid for any returned or undelivered items. The memo restores funds to the customer's account so that the customer can make future purchases.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da34a4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>credit memo</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A document issued by the merchant to a customer to write off an outstanding balance because of overcharge, rebate, or return of goods.</short-definition>
+    <long-definition>A document issued by the merchant to a customer to write off an outstanding balance because of overcharge, rebate, or return of goods.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da3968-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>credit memo comment</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Details why a credit memo amount was credited to the customer.</short-definition>
+    <long-definition>Details why a credit memo amount was credited to the customer.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da4002-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>credit memo item</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An invoiced item for which a merchant creates a credit memo.</short-definition>
+    <long-definition>An invoiced item for which a merchant creates a credit memo.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da420a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cross-sell</title>
+    <word-types>
+      <type>v</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A product that appears next to the shopping cart. When a customer navigates to the shopping cart page, these products are displayed as cross-sells to the items already in the shopping cart. They are similar to impulse buys, like magazines and candy at the cash registers in grocery stores.</short-definition>
+    <long-definition>A product that appears next to the shopping cart. When a customer navigates to the shopping cart page, these products are displayed as cross-sells to the items already in the shopping cart. They are similar to impulse buys, like magazines and candy at the cash registers in grocery stores.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da4408-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>CSS</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A style sheet language that controls the appearance of HTML documents; a way to control the appearance of text, graphics, lists, links, and all other elements on a web page. CSS can be used on first reference.</short-definition>
+    <long-definition>A style sheet language that controls the appearance of HTML documents; a way to control the appearance of text, graphics, lists, links, and all other elements on a web page. CSS can be used on first reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da45e8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>CSV</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "comma-separated values". A type of file used to store data values which are separated from each other by commas.</short-definition>
+    <long-definition>An abbreviation for "comma-separated values". A type of file used to store data values which are separated from each other by commas.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da47be-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>CVM</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "Cardholder Verification Method". A way to verify the identity of the customer by confirming a 3-digit or 4-digit credit card security code with the payment processor.</short-definition>
+    <long-definition>An abbreviation for "Cardholder Verification Method". A way to verify the identity of the customer by confirming a 3-digit or 4-digit credit card security code with the payment processor.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da4980-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>database schema</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A database system&#8217;s structure that defines how data is organized and how data relationships are governed, including all constraints applied to the data. Database schema are included in Magento modules. </short-definition>
+    <long-definition>A database system&#8217;s structure that defines how data is organized and how data relationships are governed, including all constraints applied to the data. Database schema are included in Magento modules. </long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da4e62-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>dependency injection</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. Provides dependencies for a class through a constructor or setter method instead of through direct instantiation within the class. An Object Manager instantiates objects and injects their constructor dependencies during instantiation. To define dependencies for classes, edit the di.xml configuration file.</short-definition>
+    <long-definition>[sj] Edit. Provides dependencies for a class through a constructor or setter method instead of through direct instantiation within the class. An Object Manager instantiates objects and injects their constructor dependencies during instantiation. To define dependencies for classes, edit the di.xml configuration file.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da5056-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>design pattern</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A repeatable and reusable solution to a common design problem.</short-definition>
+    <long-definition>A repeatable and reusable solution to a common design problem.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da5222-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>domain</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The address of a website on the web; what the customer types in their browser address bar to access the store.</short-definition>
+    <long-definition>The address of a website on the web; what the customer types in their browser address bar to access the store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da53ee-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>double opt-in</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process for subscribing email recipients by requiring them to take a secondary step to confirm that they want to receive emails.</short-definition>
+    <long-definition>The process for subscribing email recipients by requiring them to take a secondary step to confirm that they want to receive emails.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da55ec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>downloadable product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A product, such as a media file, that the customer downloads from the store after purchase. These downloadable files can reside on your server or be provided as URLs to any other server.</short-definition>
+    <long-definition>A product, such as a media file, that the customer downloads from the store after purchase. These downloadable files can reside on your server or be provided as URLs to any other server.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da57c2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>dynamic content</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A web page that displays different content depending on the user request.</short-definition>
+    <long-definition>A web page that displays different content depending on the user request.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da597a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>dynamic media URL</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A dynamic media URL is a relative reference to an image or other media asset. When enabled, dynamic media URLs can be used to link directly to assets on your server, or to files stored on a content delivery network. The use of dynamic media URLs can impact catalog performance, and the editor can be configured to use either static or dynamic media URLs for catalog product and category descriptions.
+
+See: content delivery network</short-definition>
+    <long-definition>A dynamic media URL is a relative reference to an image or other media asset. When enabled, dynamic media URLs can be used to link directly to assets on your server, or to files stored on a content delivery network. The use of dynamic media URLs can impact catalog performance, and the editor can be configured to use either static or dynamic media URLs for catalog product and category descriptions.
+
+See: content delivery network</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da5ef2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>entity</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; other? &gt;
+
+For staging, a campaign (update) contains entities that define the changes to be applied. Example: catalog and shopping cart price rules, products, categories, etc.</short-definition>
+    <long-definition>&lt; other? &gt;
+
+For staging, a campaign (update) contains entities that define the changes to be applied. Example: catalog and shopping cart price rules, products, categories, etc.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da60e6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>entity attribute value</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A data model to efficiently encode entities. In encoding, the number of attributes that can be used to describe entities can scale extensively, but the number that applies to a given entity is minimized.</short-definition>
+    <long-definition>A data model to efficiently encode entities. In encoding, the number of attributes that can be used to describe entities can scale extensively, but the number that applies to a given entity is minimized.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da629e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>event</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>In computing, it&#8217;s an action or occurrence &#8212; generated or triggered by the system, users or other origins &#8212; that is detected and may be handled by the software. Software may have one or more dedicated places to handle events, frequently by event loops. Event-driven software changes the flow of the program in response to events, which can enable interactive experiences.</short-definition>
+    <long-definition>In computing, it&#8217;s an action or occurrence &#8212; generated or triggered by the system, users or other origins &#8212; that is detected and may be handled by the software. Software may have one or more dedicated places to handle events, frequently by event loops. Event-driven software changes the flow of the program in response to events, which can enable interactive experiences.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da6532-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>evergreen content</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Content that has a long shelf life, or that can be reused.</short-definition>
+    <long-definition>Content that has a long shelf life, or that can be reused.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da6712-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>exception</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abnormal condition that requires special processing.</short-definition>
+    <long-definition>An abnormal condition that requires special processing.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da68f2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>exception handler</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process in computing of responding to an exception&#8217;s occurrence. Handling can change a program&#8217;s standard flow and may be resolved through specialized programming or other mechanisms.</short-definition>
+    <long-definition>The process in computing of responding to an exception&#8217;s occurrence. Handling can change a program&#8217;s standard flow and may be resolved through specialized programming or other mechanisms.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da6e4c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>extension</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. Code that extends or customizes the behavior of the Magento application. You can optionally package and distribute an extension on Magento Marketplaceor another extension distribution system. A Magento extension can include modules, themes, and language packs.
+
+Usage: Use extend, extensible, extensibility, and extensibility point as generic terms.
+
+See: component, module, package</short-definition>
+    <long-definition>[sj] Edit. Code that extends or customizes the behavior of the Magento application. You can optionally package and distribute an extension on Magento Marketplaceor another extension distribution system. A Magento extension can include modules, themes, and language packs.
+
+Usage: Use extend, extensible, extensibility, and extensibility point as generic terms.
+
+See: component, module, package</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da7090-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>FAQ (Frequently Asked Questions)</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A section or utility on a site that answers questions submitted by users. FAQ content should be contextual to specific areas of the site and should incorporate actual user feedback.</short-definition>
+    <long-definition>A section or utility on a site that answers questions submitted by users. FAQ content should be contextual to specific areas of the site and should incorporate actual user feedback.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da7284-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>favicon</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Short for favorites icon; a 16x16 or 32x32 pixel icon associated with a website; is displayed in the browser address bar and next to the site name in a bookmark list.</short-definition>
+    <long-definition>Short for favorites icon; a 16x16 or 32x32 pixel icon associated with a website; is displayed in the browser address bar and next to the site name in a bookmark list.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da74a0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>feed reader</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Software that is used to read syndicated content from RSS feeds.</short-definition>
+    <long-definition>Software that is used to read syndicated content from RSS feeds.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da7662-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>fluid layout</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A flexible approach to web design that specifies the size and position of elements as percentages rather than as exact measurements in pixels.</short-definition>
+    <long-definition>A flexible approach to web design that specifies the size and position of elements as percentages rather than as exact measurements in pixels.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da7860-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>framework</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit; need to check with architects. A common, reusable software environment with specific functionality and a larger software platform. It&#8217;s used for developing software applications, products and solutions (combinations of products and services). To integrate different components, development can include APIs, code libraries, compilers, support programs and other tool sets.
+
+Unlike libraries, frameworks feature the following:
+
+&#8226; flow of control dictated by the framework, not the caller
+&#8226; a default behavior that is user-centric and logical
+&#8226; extensibility, enabling users to produce specific functionality
+&#8226; fixed framework code &#8212; the framework can be extensible, but the code can&#8217;t be modified</short-definition>
+    <long-definition>[sj] Edit; need to check with architects. A common, reusable software environment with specific functionality and a larger software platform. It&#8217;s used for developing software applications, products and solutions (combinations of products and services). To integrate different components, development can include APIs, code libraries, compilers, support programs and other tool sets.
+
+Unlike libraries, frameworks feature the following:
+
+&#8226; flow of control dictated by the framework, not the caller
+&#8226; a default behavior that is user-centric and logical
+&#8226; extensibility, enabling users to produce specific functionality
+&#8226; fixed framework code &#8212; the framework can be extensible, but the code can&#8217;t be modified</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da7da6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>freight on board</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Free on Board (also Freight on Board)  An international shipping term that indicates the point when ownership is transferred from the seller to the buyer. FOB can be based on the place of origin or destination, and be designated as either freight collect or freight prepaid. &#160;"FOB" can be used on second reference.</short-definition>
+    <long-definition>Free on Board (also Freight on Board)  An international shipping term that indicates the point when ownership is transferred from the seller to the buyer. FOB can be based on the place of origin or destination, and be designated as either freight collect or freight prepaid. &#160;"FOB" can be used on second reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da8008-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>frontend</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. In a client-server application, backend code runs on a server. The frontend component, or client, is an interface that faces the user and enables him or her to access the underlying backend code. A user cannot directly access backend code.
+
+In a Magento installation, the frontend is the Magento storefront. A user interacts with the storefront. This interaction uses code running on the Magento server.
+
+Usage: Use as an adjective only, such as frontend component and frontend developer.
+See: backend, storefront, Front and back ends</short-definition>
+    <long-definition>[sj] Edit. In a client-server application, backend code runs on a server. The frontend component, or client, is an interface that faces the user and enables him or her to access the underlying backend code. A user cannot directly access backend code.
+
+In a Magento installation, the frontend is the Magento storefront. A user interacts with the storefront. This interaction uses code running on the Magento server.
+
+Usage: Use as an adjective only, such as frontend component and frontend developer.
+See: backend, storefront, Front and back ends</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da81e8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cache type</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Specific cache implementations. Magento defines the following cache types:&#160;configuration, layout, block HTML layout, full page (the most well-known),&#160;collections, DDL,&#160;EAV,&#160;reflection, translation,&#160;integration configuration,&#160;integration API configuration,&#160;web services configuration. You can also define your own. Reference:&#160;http://10.235.32.9:4100/guides/v2.0/config-guide/cli/config-cli-subcommands-cache.html#config-cli-subcommands-cache-clean-over</short-definition>
+    <long-definition>Specific cache implementations. Magento defines the following cache types:&#160;configuration, layout, block HTML layout, full page (the most well-known),&#160;collections, DDL,&#160;EAV,&#160;reflection, translation,&#160;integration configuration,&#160;integration API configuration,&#160;web services configuration. You can also define your own. Reference:&#160;http://10.235.32.9:4100/guides/v2.0/config-guide/cli/config-cli-subcommands-cache.html#config-cli-subcommands-cache-clean-over</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da83d2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cache backend</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>https://framework.zend.com/manual/1.12/en/zend.cache.backends.html</short-definition>
+    <long-definition>https://framework.zend.com/manual/1.12/en/zend.cache.backends.html</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da85b2-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>cache frontend </title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. It's inherently confusing to have the terms cache frontend and frontend cache. I'm not sure frontend cache is a standard term. I think this term should be cache frontend, and there needs to be another term cache backend. Probably also needs the term cache type.
+
+Cache frontend:&#160;Specifies the type of Magento cache storage for a cache type. Implemented by&#160;Magento\Framework\Cache\Frontend, the frontend could specify the file system, database, or Varnish (for example).</short-definition>
+    <long-definition>[sj] Edit. It's inherently confusing to have the terms cache frontend and frontend cache. I'm not sure frontend cache is a standard term. I think this term should be cache frontend, and there needs to be another term cache backend. Probably also needs the term cache type.
+
+Cache frontend:&#160;Specifies the type of Magento cache storage for a cache type. Implemented by&#160;Magento\Framework\Cache\Frontend, the frontend could specify the file system, database, or Varnish (for example).</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da876a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>frontend developer</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Someone who uses technologies such as HTML, CSS, and JavaScript to develop the presentation layer for an application.</short-definition>
+    <long-definition>Someone who uses technologies such as HTML, CSS, and JavaScript to develop the presentation layer for an application.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da8940-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>frontend properties</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Properties that determine the presentation and behavior of an attribute from the standpoint of the customer in your store.</short-definition>
+    <long-definition>Properties that determine the presentation and behavior of an attribute from the standpoint of the customer in your store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da8f1c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>fulfillment</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process of managing customer shipments.</short-definition>
+    <long-definition>The process of managing customer shipments.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da9138-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>gateway</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A transaction bridge between a customer and a payment processing service that is used to transfer money between the customer and the merchant.</short-definition>
+    <long-definition>A transaction bridge between a customer and a payment processing service that is used to transfer money between the customer and the merchant.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da9336-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>gross margin</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The difference between the cost and price of a product.</short-definition>
+    <long-definition>The difference between the cost and price of a product.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da9520-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>grouped product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>This option enables you to display several similar products on a single page. For example, if you are selling chefs&#8217; knives and you have the same knife in four sizes, you can make a grouped product to display all four of these sizes. Customers can select the size(s) that they want and add them to the cart from this page.</short-definition>
+    <long-definition>This option enables you to display several similar products on a single page. For example, if you are selling chefs&#8217; knives and you have the same knife in four sizes, you can make a grouped product to display all four of these sizes. Customers can select the size(s) that they want and add them to the cart from this page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da96ec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>handle</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>In programming, a name used to reference an object.</short-definition>
+    <long-definition>In programming, a name used to reference an object.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0da98a4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>home page</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The first home page a visitor sees when they access your website URL. Considered the most important page on your website according to search engine indexing.</short-definition>
+    <long-definition>The first home page a visitor sees when they access your website URL. Considered the most important page on your website according to search engine indexing.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daa2b8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>HTML</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "HyperText Markup Language". A standard for tagging and structuring text, images, videos, and other media on a web page. HTML can be used on first reference.</short-definition>
+    <long-definition>An abbreviation for "HyperText Markup Language". A standard for tagging and structuring text, images, videos, and other media on a web page. HTML can be used on first reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daa9de-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>integration API</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Yes. &lt; can this be included in API entry, with a synonym for "integration API"? &gt;</short-definition>
+    <long-definition>[sj] Yes. &lt; can this be included in API entry, with a synonym for "integration API"? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daac40-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>interception</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] &lt;odifies the behavior of public class functions by intercepting a function call and running code before, after, or around that function call. Interception reduces conflicts among extensions that change the behavior of the same class or method. Your Plugin class implementation changes the behavior of a class function, but it does not change the class itself. Because they can be called sequentially according to a configured sort order, these interceptors do not conflict with one another.</short-definition>
+    <long-definition>[sj] &lt;odifies the behavior of public class functions by intercepting a function call and running code before, after, or around that function call. Interception reduces conflicts among extensions that change the behavior of the same class or method. Your Plugin class implementation changes the behavior of a class function, but it does not change the class itself. Because they can be called sequentially according to a configured sort order, these interceptors do not conflict with one another.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daae3e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>invoice</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A document that provides a detailed description of a purchase, including products purchased, quantity, price, shipping cost, sales tax, and total. If the products in an order are shipped in multiple shipments, then an invoice is generated for each shipment for the products in that shipment.</short-definition>
+    <long-definition>A document that provides a detailed description of a purchase, including products purchased, quantity, price, shipping cost, sales tax, and total. If the products in an order are shipped in multiple shipments, then an invoice is generated for each shipment for the products in that shipment.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daaff6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>invoice comment</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Details the invoice history.</short-definition>
+    <long-definition>Details the invoice history.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dab1a4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>invoice item</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A purchased item in an invoice.</short-definition>
+    <long-definition>A purchased item in an invoice.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dab3de-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>JavaScript</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A scripting language used with HTML to produce dynamic effects and interactions on web pages.</short-definition>
+    <long-definition>A scripting language used with HTML to produce dynamic effects and interactions on web pages.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dab96a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>jQuery</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A popular JavaScript library that is often used to create dynamic and responsive effects.</short-definition>
+    <long-definition>A popular JavaScript library that is often used to create dynamic and responsive effects.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dabb2c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>keyword</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A term or phrase used in a search to filter for content that is of significant importance to that term or phrase.</short-definition>
+    <long-definition>A term or phrase used in a search to filter for content that is of significant importance to that term or phrase.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dabcd0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>landing page</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A page on your site where a visitor arrives after clicking a link or advertisement.</short-definition>
+    <long-definition>A page on your site where a visitor arrives after clicking a link or advertisement.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dabe6a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>language package</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>[sj] Provides translation dictionaries used to localize the Magento application. A language package includes one or more translation files.</short-definition>
+    <long-definition>[sj] Provides translation dictionaries used to localize the Magento application. A language package includes one or more translation files.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dac02c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>layout</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The visual and structural composition of a page.</short-definition>
+    <long-definition>The visual and structural composition of a page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dac1ee-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>layout instructions</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dac3a6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>layout update</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; proposed: use for template -- make layout update a synonym, create note for "formerly used as ..." &gt;</short-definition>
+    <long-definition>&lt; proposed: use for template -- make layout update a synonym, create note for "formerly used as ..." &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dac892-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>library</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>In the Magento system, a logical grouping of functionality within the framework layer.
+
+Usage: Refer to a library by its namespace. For example, the Magento Filesystem library.
+
+See: third-party library</short-definition>
+    <long-definition>In the Magento system, a logical grouping of functionality within the framework layer.
+
+Usage: Refer to a library by its namespace. For example, the Magento Filesystem library.
+
+See: third-party library</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daca86-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>link juice</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The value and authority transferred from one web page to another via hyperlinks (or links). Link juice affects a website&#8217;s page rank, a factor used to rank a search engine results page.</short-definition>
+    <long-definition>The value and authority transferred from one web page to another via hyperlinks (or links). Link juice affects a website&#8217;s page rank, a factor used to rank a search engine results page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daccd4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>load sequence</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The order in which scripts are loaded into memory. To work correctly, some scripts must be loaded before others.</short-definition>
+    <long-definition>The order in which scripts are loaded into memory. To work correctly, some scripts must be loaded before others.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dacebe-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>locale</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A set of configurations that defines the user&#8217;s language, country, tax rate, and other settings.</short-definition>
+    <long-definition>A set of configurations that defines the user&#8217;s language, country, tax rate, and other settings.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dad08a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Magento</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The Magento term is a registered trademark and a company name.
+
+Usage: Use as an adjective but do not use as a noun in any form. For example, Magento system, Magento namespace, and so on.
+
+See: Magento Trademark Requirements</short-definition>
+    <long-definition>The Magento term is a registered trademark and a company name.
+
+Usage: Use as an adjective but do not use as a noun in any form. For example, Magento system, Magento namespace, and so on.
+
+See: Magento Trademark Requirements</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dad24c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Magento Admin</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Used to generate all auto-generated Magento code in advance; improves performance of Magento by precompiling some static code analysis information used during runtime. The Magento compiler searches through the Magento source code in all modules, makes a copy of every class, and places them in a single directory.</short-definition>
+    <long-definition>Used to generate all auto-generated Magento code in advance; improves performance of Magento by precompiling some static code analysis information used during runtime. The Magento compiler searches through the Magento source code in all modules, makes a copy of every class, and places them in a single directory.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dad418-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Magento compiler</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; need definition for purpose and differences between of Magento 1 and Magento 2 compilers. &gt;</short-definition>
+    <long-definition>&lt; need definition for purpose and differences between of Magento 1 and Magento 2 compilers. &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dada58-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Magento component</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Don't use this in user documentation because it causes confusion. Use extension instead.
+
+A Magento component is one of the following:
+&#8226; Module
+&#8226; Language package
+&#8226; Theme
+
+The term "component" is used in the more general sense elsewhere in the Magento documentation, but then it should be qualified to distinguish it from the "core" Magento components listed above. [sj] Those aren't core components. Example: When discussing Javascript and UI resources, use the term "UI components." 
+
+Usage:
+&#8226; Should be referenced as Magento component unless the context is already clear.
+&#8226; Although you don't have to package it using Composer, it's implied that you do. In others, make clear when you're not discussing a component as a Composer package.
+&#8226; To be picky, a component does not have to be delivered by Magento Marketplace. You can install a component from packagist. To make it completely clear, recommend component for non-Marketplace delivery and extension for Marketplace delivery. [sj] Not true.
+&#8226; Is not a third-party library. A third-party library is not Magento-specific. You should refer to them by the name from packageist or however the vendor refers to it.</short-definition>
+    <long-definition>[sj] Don't use this in user documentation because it causes confusion. Use extension instead.
+
+A Magento component is one of the following:
+&#8226; Module
+&#8226; Language package
+&#8226; Theme
+
+The term "component" is used in the more general sense elsewhere in the Magento documentation, but then it should be qualified to distinguish it from the "core" Magento components listed above. [sj] Those aren't core components. Example: When discussing Javascript and UI resources, use the term "UI components." 
+
+Usage:
+&#8226; Should be referenced as Magento component unless the context is already clear.
+&#8226; Although you don't have to package it using Composer, it's implied that you do. In others, make clear when you're not discussing a component as a Composer package.
+&#8226; To be picky, a component does not have to be delivered by Magento Marketplace. You can install a component from packagist. To make it completely clear, recommend component for non-Marketplace delivery and extension for Marketplace delivery. [sj] Not true.
+&#8226; Is not a third-party library. A third-party library is not Magento-specific. You should refer to them by the name from packageist or however the vendor refers to it.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dadc6a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>markdown</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The amount subtracted from the original price of a product.</short-definition>
+    <long-definition>The amount subtracted from the original price of a product.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dade54-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>markup</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A percentage added to the cost of an item to determine the retail price.</short-definition>
+    <long-definition>A percentage added to the cost of an item to determine the retail price.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dae02a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>media storage</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A dedicated space on the content delivery network for your store's assets.</short-definition>
+    <long-definition>A dedicated space on the content delivery network for your store's assets.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dae246-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>merchant account</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An account with a bank or financial institution that makes it possible to accept credit card transactions.</short-definition>
+    <long-definition>An account with a bank or financial institution that makes it possible to accept credit card transactions.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dae43a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>meta tags</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Embedded but not visible in an HTML page, providing metadata about the page that is read by search engines and can be used in ranking search results. Meta tags can include page title, description and keywords.</short-definition>
+    <long-definition>Embedded but not visible in an HTML page, providing metadata about the page that is read by search engines and can be used in ranking search results. Meta tags can include page title, description and keywords.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dae610-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>metadata</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Data that describes other data. Metadata helps users find and work with data.</short-definition>
+    <long-definition>Data that describes other data. Metadata helps users find and work with data.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daeba6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>metapackage</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] https://getcomposer.org/doc/04-schema.md#type</short-definition>
+    <long-definition>[sj] https://getcomposer.org/doc/04-schema.md#type</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daedcc-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>mixin</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A class that contains a combination of methods from other classes. Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause (the diamond problem), or to work around lack of support for multiple inheritance in a language. How such a combination is done depends on the language, but it is not by inheritance. If a combination contains all methods of combined classes it is equivalent to multiple inheritance.
+
+See: Magento UI library</short-definition>
+    <long-definition>A class that contains a combination of methods from other classes. Mixins encourage code reuse and can be used to avoid the inheritance ambiguity that multiple inheritance can cause (the diamond problem), or to work around lack of support for multiple inheritance in a language. How such a combination is done depends on the language, but it is not by inheritance. If a combination contains all methods of combined classes it is equivalent to multiple inheritance.
+
+See: Magento UI library</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daf006-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>module</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. Code that changes or extends features provided by the Magento application. A module is contained in a directory structure that contains PHP and XML files (configuration, blocks, controllers, helpers, models, and so on) related to a specific functionality to deliver a distinct collection of product features.
+
+The purpose of each module is to provide specific product features by implementing new functionality or extending the functionality of other modules. Each module is designed to function independently, so the inclusion or exclusion of a particular module does not impact the functionality of other modules.
+
+A module can also implement widgets, which are page elements that can be customized by business users in the Admin .
+
+Modules can be disabled or removed without breaking the consistency of the Magento application. One exception: When the module depends on other modules, which requires disabling or removing the dependant modules.
+
+See: https://wiki.corp.magento.com/display/MAGE2/Magento+Module</short-definition>
+    <long-definition>[sj] Edit. Code that changes or extends features provided by the Magento application. A module is contained in a directory structure that contains PHP and XML files (configuration, blocks, controllers, helpers, models, and so on) related to a specific functionality to deliver a distinct collection of product features.
+
+The purpose of each module is to provide specific product features by implementing new functionality or extending the functionality of other modules. Each module is designed to function independently, so the inclusion or exclusion of a particular module does not impact the functionality of other modules.
+
+A module can also implement widgets, which are page elements that can be customized by business users in the Admin .
+
+Modules can be disabled or removed without breaking the consistency of the Magento application. One exception: When the module depends on other modules, which requires disabling or removing the dependant modules.
+
+See: https://wiki.corp.magento.com/display/MAGE2/Magento+Module</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daf1e6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>namespace</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>a set of symbols used to organize a variety of objects so that the objects may be referred to with a name.</short-definition>
+    <long-definition>a set of symbols used to organize a variety of objects so that the objects may be referred to with a name.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daf38a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>navigation</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The primary group of web page links that a customer uses to navigate around the website. The navigation links to the most important categories or pages on an online store.</short-definition>
+    <long-definition>The primary group of web page links that a customer uses to navigate around the website. The navigation links to the most important categories or pages on an online store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0daf560-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>opt-in</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process by which a user consents to receiving emails from an online store.</short-definition>
+    <long-definition>The process by which a user consents to receiving emails from an online store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dafb14-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>order</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A document that a web store issues to a customer. Magento generates a sales order that lists the product, billing and shipping addresses, and shipping and payment methods. A corresponding external document, known as a purchase order, is emailed to the customer.
+
+An order is a request for goods.</short-definition>
+    <long-definition>A document that a web store issues to a customer. Magento generates a sales order that lists the product, billing and shipping addresses, and shipping and payment methods. A corresponding external document, known as a purchase order, is emailed to the customer.
+
+An order is a request for goods.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dafd30-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>order status</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The order status indicates where it is in the order cycle. The store administrator can create custom order statuses, assign them to order states and set default status values for order states.
+
+Usage: In Magento, the system order status values are the following:
+* Pending - Pending orders are brand new orders that have not been processed. Typically, these orders need to be invoiced and shipped.
+* On Hold - The user cannot proceed to order processing if the order is in this state. This is convenient if, for example, some data must be verified.
+* Pending PayPal (possible for PayPal orders only) - Pending PayPal orders are brand new orders that have not been cleared by PayPal. When using PayPal as a payment method, customers are redirected to the PayPal website. If they have not paid for the order, orders will be marked as Pending PayPal. It is not recommended to process these orders without referencing PayPal first to see if payment has been made.
+* Payment Review - As long as an external payment gateway is verifying the payment information from a sales order, the order is assigned the Payment Review status both in the payment system and in Magento.
+* Processing - Processing means that the order has been either invoiced or shipped, but not both.
+* Suspected Fraud (possible for PayPal orders only) &#8211; The order transaction did not pass one or more of the PayPal fraud filters and the system receives the response from PayPal that the transaction is under review by Fraud Service.
+* Complete - Orders marked as complete have fully been invoiced and have shipped.
+* Canceled - The order can be of this status if the customer calls your web store and asks to cancel an order if the order has not been paid for.</short-definition>
+    <long-definition>The order status indicates where it is in the order cycle. The store administrator can create custom order statuses, assign them to order states and set default status values for order states.
+
+Usage: In Magento, the system order status values are the following:
+* Pending - Pending orders are brand new orders that have not been processed. Typically, these orders need to be invoiced and shipped.
+* On Hold - The user cannot proceed to order processing if the order is in this state. This is convenient if, for example, some data must be verified.
+* Pending PayPal (possible for PayPal orders only) - Pending PayPal orders are brand new orders that have not been cleared by PayPal. When using PayPal as a payment method, customers are redirected to the PayPal website. If they have not paid for the order, orders will be marked as Pending PayPal. It is not recommended to process these orders without referencing PayPal first to see if payment has been made.
+* Payment Review - As long as an external payment gateway is verifying the payment information from a sales order, the order is assigned the Payment Review status both in the payment system and in Magento.
+* Processing - Processing means that the order has been either invoiced or shipped, but not both.
+* Suspected Fraud (possible for PayPal orders only) &#8211; The order transaction did not pass one or more of the PayPal fraud filters and the system receives the response from PayPal that the transaction is under review by Fraud Service.
+* Complete - Orders marked as complete have fully been invoiced and have shipped.
+* Canceled - The order can be of this status if the customer calls your web store and asks to cancel an order if the order has not been paid for.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dafefc-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>package</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>[sj] Edit. verb
+(Should be Composer package.) The process of creating a distributable module for Magento Marketplace or another distribution system.
+
+noun [sj] I don't think the noun is helpful. You should talk about what the package is for; I'm not sure "package" as a generic term makes sense.
+A source code directory for a component that includes package meta-information. A package can be distributed through a packaging system.
+Packages are not Magento-specific.
+
+See: Composer package [sj] Same as Composer package</short-definition>
+    <long-definition>[sj] Edit. verb
+(Should be Composer package.) The process of creating a distributable module for Magento Marketplace or another distribution system.
+
+noun [sj] I don't think the noun is helpful. You should talk about what the package is for; I'm not sure "package" as a generic term makes sense.
+A source code directory for a component that includes package meta-information. A package can be distributed through a packaging system.
+Packages are not Magento-specific.
+
+See: Composer package [sj] Same as Composer package</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db0168-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>packing slip</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A document that is usually included in a shipped package that describes the contents. Packing slips do not include financial or account information.</short-definition>
+    <long-definition>A document that is usually included in a shipped package that describes the contents. Packing slips do not include financial or account information.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db038e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>page template</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; is this necessary or can it be included in the "template" entry? &gt;</short-definition>
+    <long-definition>&lt; is this necessary or can it be included in the "template" entry? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db0564-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>path to purchase</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The path a prospect follows that leads to a sale.</short-definition>
+    <long-definition>The path a prospect follows that leads to a sale.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db0726-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>payment bridge</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An application that helps merchants meet PCI- DSS requirements.</short-definition>
+    <long-definition>An application that helps merchants meet PCI- DSS requirements.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db1112-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Payment Card Industry</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Refers to debit and credit cards and their associated businesses. "PCI" can be used on second reference.</short-definition>
+    <long-definition>Refers to debit and credit cards and their associated businesses. "PCI" can be used on second reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db137e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>payment gateway</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; which of these 2 definitions is valid? are both valid? &gt;</short-definition>
+    <long-definition>&lt; which of these 2 definitions is valid? are both valid? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db19be-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Payment Gateway</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; which of these 2 definitions is valid? are both valid? &gt;</short-definition>
+    <long-definition>&lt; which of these 2 definitions is valid? are both valid? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db1bf8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Payment Method</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A way for the customer to pay for the merchandise in your store. Payment methods can be internal or external. The Payment Methods section of the System Configuration includes all basic payment methods and gateways.</short-definition>
+    <long-definition>A way for the customer to pay for the merchandise in your store. Payment methods can be internal or external. The Payment Methods section of the System Configuration includes all basic payment methods and gateways.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db1dec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>plug-in</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] Not a synonym of extension; synonym of interceptor.
+
+A plug-in, or interceptor, is a class that modifies the behavior of public class functions by intercepting a function call and running code before, after, or around that function call. This allows you to substitute or extend the behavior of original, public methods for any class or interface.
+</short-definition>
+    <long-definition>[sj] Not a synonym of extension; synonym of interceptor.
+
+A plug-in, or interceptor, is a class that modifies the behavior of public class functions by intercepting a function call and running code before, after, or around that function call. This allows you to substitute or extend the behavior of original, public methods for any class or interface.
+</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db1fd6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>privacy policy</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A document that explains the merchant&#8217;s policies for handling customer information.</short-definition>
+    <long-definition>A document that explains the merchant&#8217;s policies for handling customer information.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db21ac-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>product type</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Magento classifies products as one of several predefined product types including Simple Product, Virtual Product, Downloadable Product, Grouped Product, Configurable Product, Bundle Product, Gift Card Product.</short-definition>
+    <long-definition>Magento classifies products as one of several predefined product types including Simple Product, Virtual Product, Downloadable Product, Grouped Product, Configurable Product, Bundle Product, Gift Card Product.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db2800-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>publisher/subscriber pattern</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db29ea-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>purchase order (PO)</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A written sales contract between a buyer and seller that describes the merchandise or service to be purchased from a vendor.</short-definition>
+    <long-definition>A written sales contract between a buyer and seller that describes the merchandise or service to be purchased from a vendor.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db2d50-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>redirect</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A method used to alert browsers and search engines that a page has been moved. Redirect types include:
+*301 redirect - permanent change
+*302 redirect - temporary change</short-definition>
+    <long-definition>A method used to alert browsers and search engines that a page has been moved. Redirect types include:
+*301 redirect - permanent change
+*302 redirect - temporary change</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db2f4e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>related product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>&lt; is this a synonym for "cross-sell"? &gt;</short-definition>
+    <long-definition>&lt; is this a synonym for "cross-sell"? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db312e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>relative link</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A hyperlink that includes only the address of the linked page that is relative to the linking page, rather than the full URL.</short-definition>
+    <long-definition>A hyperlink that includes only the address of the linked page that is relative to the linking page, rather than the full URL.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db32f0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>return policy</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A document that explains the merchant&#8217;s rules regarding the return of products by customers.</short-definition>
+    <long-definition>A document that explains the merchant&#8217;s rules regarding the return of products by customers.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db384a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>robots.txt</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A file placed on a website that tells search engine crawlers which pages not to index.</short-definition>
+    <long-definition>A file placed on a website that tells search engine crawlers which pages not to index.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db3a66-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>RSS feed</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Abbreviation for "Really Simple Syndication". A technology that creates web content syndication and allows web users to subscribe to product feeds, websites, and blogs.</short-definition>
+    <long-definition>Abbreviation for "Really Simple Syndication". A technology that creates web content syndication and allows web users to subscribe to product feeds, websites, and blogs.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db3c46-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>software as a service</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Abbreviation: "SaaS". A software delivery model where the vendor provides the software and hosting environment, and customers pay for the service by subscription or per use.
+
+See also: cloud services, platform as a service, infastructure as a service</short-definition>
+    <long-definition>Abbreviation: "SaaS". A software delivery model where the vendor provides the software and hosting environment, and customers pay for the service by subscription or per use.
+
+See also: cloud services, platform as a service, infastructure as a service</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db3e12-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>sales rules</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Includes cart and catalog rules, used for promotions.</short-definition>
+    <long-definition>Includes cart and catalog rules, used for promotions.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db3fc0-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>Sass / Compass</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A CSS pre-compiler that provides organizable, reusable CSS.
+
+See also: CSS</short-definition>
+    <long-definition>A CSS pre-compiler that provides organizable, reusable CSS.
+
+See also: CSS</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4164-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>scope</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Scope describes the extent of your store hierarchy to which a given setting is effective. A setting can have a scope of Global (all websites, stores, and store views), Website (the selected website and all stores and store views under it), Store (the selected store and all store views under it), and Store View (the selected store view). Some settings that are set at a higher level can be overridden at a lower level.</short-definition>
+    <long-definition>Scope describes the extent of your store hierarchy to which a given setting is effective. A setting can have a scope of Global (all websites, stores, and store views), Website (the selected website and all stores and store views under it), Store (the selected store and all store views under it), and Store View (the selected store view). Some settings that are set at a higher level can be overridden at a lower level.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db42fe-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>search engine optimization</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Abbreviation for "search engine optimization". The process of improving a website&#8217;s search engine rankings in order to increase valued visitors. Use SEO on second reference. </short-definition>
+    <long-definition>Abbreviation for "search engine optimization". The process of improving a website&#8217;s search engine rankings in order to increase valued visitors. Use SEO on second reference. </long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db477c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>security certificate</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Information that is used by the SSL protocol to establish a secure connection.</short-definition>
+    <long-definition>Information that is used by the SSL protocol to establish a secure connection.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4966-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>security code</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Provides an additional level of security for credit cards and online transactions. "Security Code" is referred to as CVN, CVV, CCV and CVC.</short-definition>
+    <long-definition>Provides an additional level of security for credit cards and online transactions. "Security Code" is referred to as CVN, CVV, CCV and CVC.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4af6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>SERP</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Abbreviation for "search engine results page".</short-definition>
+    <long-definition>Abbreviation for "search engine results page".</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4c72-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>server side</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>[sj] See earlier edit.
+In a client-server application, backend code runs on a server. The frontend component, or client, is an interface on a local computer or workstation that and enables useres to access the remote server and manipulate the backend code. A user cannot directly access backend code.
+
+In Magento, users interact with the frontend interface, or storefront, locally. This interaction launches the backend code, or Magento application programs, remotely.
+
+Usage: Use as an adjective only, such as backend code, database, or file system. 
+
+See: frontend</short-definition>
+    <long-definition>[sj] See earlier edit.
+In a client-server application, backend code runs on a server. The frontend component, or client, is an interface on a local computer or workstation that and enables useres to access the remote server and manipulate the backend code. A user cannot directly access backend code.
+
+In Magento, users interact with the frontend interface, or storefront, locally. This interaction launches the backend code, or Magento application programs, remotely.
+
+Usage: Use as an adjective only, such as backend code, database, or file system. 
+
+See: frontend</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4dee-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>service contract</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A set of PHP interfaces that are defined for a module. A service contract includes data interfaces, which preserve data integrity, and service interfaces, which hide business logic details from service requestors such as controllers, web services, and other modules.</short-definition>
+    <long-definition>A set of PHP interfaces that are defined for a module. A service contract includes data interfaces, which preserve data integrity, and service interfaces, which hide business logic details from service requestors such as controllers, web services, and other modules.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db4fec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>settlement</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Settlement occurs when the acquiring bank and the issuer exchange funds and the proceeds are deposited into the merchant account.</short-definition>
+    <long-definition>Settlement occurs when the acquiring bank and the issuer exchange funds and the proceeds are deposited into the merchant account.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db5186-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>shipment</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A shipment is a record of the products in an order that have been shipped. More than one shipment can be associated with a single order.</short-definition>
+    <long-definition>A shipment is a record of the products in an order that have been shipped. More than one shipment can be associated with a single order.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db55e6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>shipment document</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A document that accompanies a shipment. The document lists the products and their quantities in the delivery package.</short-definition>
+    <long-definition>A document that accompanies a shipment. The document lists the products and their quantities in the delivery package.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db57bc-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>shipping carrier</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A company that transports packages. Common carriers include UPS, FedEx, DHL, and USPS.</short-definition>
+    <long-definition>A company that transports packages. Common carriers include UPS, FedEx, DHL, and USPS.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db596a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>shopping cart</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The set of products that a customer has selected to purchase, but has not yet purchased. Also refers to an area of an ecommerce site where these products can be found in order to review and checkout.</short-definition>
+    <long-definition>The set of products that a customer has selected to purchase, but has not yet purchased. Also refers to an area of an ecommerce site where these products can be found in order to review and checkout.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db5b2c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>sidebar</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The right or left column of a two-column page layout.</short-definition>
+    <long-definition>The right or left column of a two-column page layout.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db5cda-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>sign in</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The process of signing into an online account.
+
+Usage: Use "Sign In", instead of log in</short-definition>
+    <long-definition>The process of signing into an online account.
+
+Usage: Use "Sign In", instead of log in</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db60f4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>simple product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>This is the most basic product type. It is suitable for all kinds of physical (shipped) products.</short-definition>
+    <long-definition>This is the most basic product type. It is suitable for all kinds of physical (shipped) products.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db62e8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>sitemap</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A page that provides search engines with an efficient, alternate route through your site.</short-definition>
+    <long-definition>A page that provides search engines with an efficient, alternate route through your site.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db64be-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>SKU (Stock Keeping Unit)</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A number or code assigned to a product to identify the product, options, price, and manufacturer.</short-definition>
+    <long-definition>A number or code assigned to a product to identify the product, options, price, and manufacturer.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db6694-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>splash page</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A promotional page with a product or advertisement; normally displayed before the home page.</short-definition>
+    <long-definition>A promotional page with a product or advertisement; normally displayed before the home page.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db6892-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>SSL certificate</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A validation and security mechanism that identifies the merchant and encrypts credit card and other sensitive information.</short-definition>
+    <long-definition>A validation and security mechanism that identifies the merchant and encrypts credit card and other sensitive information.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db6a5e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>static block</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A fixed content block that can be displayed on various content pages in a store.</short-definition>
+    <long-definition>A fixed content block that can be displayed on various content pages in a store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db6ebe-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>static content</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Content that does not change frequently. 
+
+See: dynamic content</short-definition>
+    <long-definition>Content that does not change frequently. 
+
+See: dynamic content</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db70c6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>static files</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>The collection of assets, such as CSS, fonts, images, and JavaScript that is used by a theme.</short-definition>
+    <long-definition>The collection of assets, such as CSS, fonts, images, and JavaScript that is used by a theme.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db72a6-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>static page</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A page with the main content area that is manually populated with content and does not relay on automated content feeds.</short-definition>
+    <long-definition>A page with the main content area that is manually populated with content and does not relay on automated content feeds.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db7472-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>store</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The second level of your store hierarchy. A website can have multiple stores (each, potentially, with its own root category), and a store can have multiple store views.</short-definition>
+    <long-definition>The second level of your store hierarchy. A website can have multiple stores (each, potentially, with its own root category), and a store can have multiple store views.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db768e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>store view</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The lowest level of your store hierarchy. Typically, a store view is created for each locale or language. All store views under a given store share the same catalog. Customers use a drop-down menu on the frontend to switch from one store view to another.</short-definition>
+    <long-definition>The lowest level of your store hierarchy. Typically, a store view is created for each locale or language. All store views under a given store share the same catalog. Customers use a drop-down menu on the frontend to switch from one store view to another.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db7b48-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>storefront</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The general name of a Magento store that is presented to users.
+
+Do not confuse this term with the frontend area. Do not refer to the storefront as frontend or any form of that word.</short-definition>
+    <long-definition>The general name of a Magento store that is presented to users.
+
+Do not confuse this term with the frontend area. Do not refer to the storefront as frontend or any form of that word.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db820a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>subscription (webhook)</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A method of adding to or changing the behavior of a web page, or web application, using custom callbacks.</short-definition>
+    <long-definition>A method of adding to or changing the behavior of a web page, or web application, using custom callbacks.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db8462-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>tax rule</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A combination of a product tax class, customer tax class, and tax rate. This rule defines which tax calculation is applied.</short-definition>
+    <long-definition>A combination of a product tax class, customer tax class, and tax rate. This rule defines which tax calculation is applied.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db862e-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>template</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db87c8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>theme</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A package that contains graphics and appearance information, and customizes the look and feel of the store.</short-definition>
+    <long-definition>A package that contains graphics and appearance information, and customizes the look and feel of the store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db8980-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>third-party library</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An external set of code developed by a third-party developer or partner.
+
+See: library</short-definition>
+    <long-definition>An external set of code developed by a third-party developer or partner.
+
+See: library</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db92f4-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>transactional email</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>A notification email sent to the customer when a transaction is processed.
+
+An automated email message that is sent in response to a specific event or transaction.</short-definition>
+    <long-definition>A notification email sent to the customer when a transaction is processed.
+
+An automated email message that is sent in response to a specific event or transaction.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db9538-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>translation file</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Comma-separated value (CSV) message catalog files that provide translations for strings displayed in Magento.
+
+See: language package</short-definition>
+    <long-definition>Comma-separated value (CSV) message catalog files that provide translations for strings displayed in Magento.
+
+See: language package</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db9722-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>upsell</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An upsell item is one that is offered to the customer as an alternative to the product the customer is viewing. These products may be more expensive, of higher quality, or more popular, or produce a higher profit margin.
+
+See: cross-sell</short-definition>
+    <long-definition>An upsell item is one that is offered to the customer as an alternative to the product the customer is viewing. These products may be more expensive, of higher quality, or more popular, or produce a higher profit margin.
+
+See: cross-sell</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db98f8-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>URL</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "Uniform Resource Locator". The unique address of a page on the internet.</short-definition>
+    <long-definition>An abbreviation for "Uniform Resource Locator". The unique address of a page on the internet.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db9ace-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>usability</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>Refers to the degree to which a product or service is easy to use by its customers.</short-definition>
+    <long-definition>Refers to the degree to which a product or service is easy to use by its customers.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0db9fec-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>virtual product</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>This is a product that does not require shipping or inventory. It is generally used for warranties or services.</short-definition>
+    <long-definition>This is a product that does not require shipping or inventory. It is generally used for warranties or services.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dba21c-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>virtual type</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Developer</user-tag>
+    </user-tags>
+    <short-definition>Virtual types are a way to inject different dependencies into existing classes without affecting other classes and without having to create a new class file. Virtual types can only be referenced in by argument overrides in a &lt;type&gt; element within di.xml files, never in source code. They can't be extended and they can't be references as dependencies in a classes constructor.</short-definition>
+    <long-definition>Virtual types are a way to inject different dependencies into existing classes without affecting other classes and without having to create a new class file. Virtual types can only be referenced in by argument overrides in a &lt;type&gt; element within di.xml files, never in source code. They can't be extended and they can't be references as dependencies in a classes constructor.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dba3fc-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>web API</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>&lt; can this be included in API entry, with a synonym for "web API"? &gt;</short-definition>
+    <long-definition>&lt; can this be included in API entry, with a synonym for "web API"? &gt;</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dba5be-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>website</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>DevDocs</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>The highest level of your store hierarchy. You can have multiple websites, and each website can have a different domain name. Websites can be set up to share customer data, or to not share data.
+
+
+[sj] Not internal.</short-definition>
+    <long-definition>The highest level of your store hierarchy. You can have multiple websites, and each website can have a different domain name. Websites can be set up to share customer data, or to not share data.
+
+
+[sj] Not internal.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dba78a-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>widget</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Marketing</primary-source>
+    <content-tags>
+      <content-tag>Design</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>A prepared snippet of code that adds functionality and/or dynamic effects to your store.</short-definition>
+    <long-definition>A prepared snippet of code that adds functionality and/or dynamic effects to your store.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dba956-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>WYSIWYG</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Training</primary-source>
+    <content-tags>
+      <content-tag>Magento Software</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "What You See Is What You Get". A data-entry field with an editor that displays and formats images and textual content entered by users in a layout that closely matches how the content will be displayed when published. </short-definition>
+    <long-definition>An abbreviation for "What You See Is What You Get". A data-entry field with an editor that displays and formats images and textual content entered by users in a layout that closely matches how the content will be displayed when published. </long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+  <term>
+    <uuid>b0dbaf96-9a2d-11e6-9f33-a24fc0d9649c</uuid>
+    <title>XML</title>
+    <word-types>
+      <type>n</type>
+    </word-types>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>Design</primary-source>
+    <content-tags>
+      <content-tag>Programming</content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+      <user-tag>Merchant</user-tag>
+    </user-tags>
+    <short-definition>An abbreviation for "Extensible Markup Language". A markup format derived from SGML that is used to format information for publication and distribution. "XML" can be used on first reference.</short-definition>
+    <long-definition>An abbreviation for "Extensible Markup Language". A markup format derived from SGML that is used to format information for publication and distribution. "XML" can be used on first reference.</long-definition>
+    <usage></usage>
+    <reference-links></reference-links>
+  </term>
+</glossary>
