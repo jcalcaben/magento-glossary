@@ -1,27 +1,5 @@
 <terms>
   <term>
-    <uuid>91367932-5de8-4492-867b-708f60cf441f</uuid>
-    <title>(s)</title>
-    <types>
-      <type>usage</type>
-    </types>
-    <form-types/>
-    <synonyms>
-      <synonym></synonym>
-    </synonyms>
-    <primary-source>UserDocs</primary-source>
-    <content-tags>
-      <content-tag></content-tag>
-    </content-tags>
-    <user-tags>
-      <user-tag>Internal</user-tag>
-    </user-tags>
-    <short-definition></short-definition>
-    <long-definition></long-definition>
-    <usage>Indicates singular, rather than plural. Avoided in running text. Can be used if it&#8217;s in the UI.</usage>
-    <reference-links/>
-  </term>
-  <term>
     <uuid>3e6fc741-3565-4f57-bd3e-5a1cf0f3210d</uuid>
     <title>24/7</title>
     <types>
@@ -8358,6 +8336,28 @@ The Magento Admin user interface uses an RSS feed provided by Magento to receive
     <short-definition></short-definition>
     <long-definition></long-definition>
     <usage></usage>
+    <reference-links/>
+  </term>
+  <term>
+    <uuid>91367932-5de8-4492-867b-708f60cf441f</uuid>
+    <title>(s)</title>
+    <types>
+      <type>usage</type>
+    </types>
+    <form-types/>
+    <synonyms>
+      <synonym></synonym>
+    </synonyms>
+    <primary-source>UserDocs</primary-source>
+    <content-tags>
+      <content-tag></content-tag>
+    </content-tags>
+    <user-tags>
+      <user-tag>Internal</user-tag>
+    </user-tags>
+    <short-definition></short-definition>
+    <long-definition></long-definition>
+    <usage>Indicates singular, rather than plural. Avoided in running text. Can be used if it&#8217;s in the UI.</usage>
     <reference-links/>
   </term>
   <term>
